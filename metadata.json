@@ -1,0 +1,6 @@
+{
+  "name": "Diagnostic de la présence numérique",
+  "description": "Activité pédagogique interactive et accessible (RGAA / WCAG) d'analyse de la présence numérique en entreprise pour LMS Totara / Moodle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
